@@ -121,7 +121,7 @@ const Navbar = () => {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link to="/" className="flex items-center space-x-2">
           <BrainCircuit className="h-6 w-6 text-primary" />
-          <span className="text-xl font-bold">WellnessHub</span>
+          <span className="text-xl font-bold">EmotiHome</span>
         </Link>
         <nav className="flex items-center space-x-2">
           {user ? (

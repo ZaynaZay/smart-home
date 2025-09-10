@@ -77,7 +77,7 @@ const SignUpPage = () => {
             className="flex items-center space-x-2 text-xl font-bold"
           >
             <BrainCircuit className="h-8 w-8 text-primary" />
-            <span>WellnessHub</span>
+            <span>EmotiHome</span>
           </Link>
           <div className="text-lg">
             <blockquote className="italic">

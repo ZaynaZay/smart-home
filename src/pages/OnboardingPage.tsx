@@ -35,7 +35,7 @@ const OnboardingPage = () => {
   return (
     <div className="max-w-4xl mx-auto py-12">
       <div className="text-center mb-12">
-        <h1 className="text-4xl font-bold">Welcome to WellnessHub!</h1>
+        <h1 className="text-4xl font-bold">Welcome to EmotiHome!</h1>
         <p className="text-muted-foreground mt-2">
           Let's get you set up in a few simple steps.
         </p>
@@ -51,7 +51,7 @@ const OnboardingPage = () => {
           </CardHeader>
           <CardContent>
             <p>
-              WellnessHub uses your camera to privately analyze your emotion.
+              EmotiHome uses your camera to privately analyze your emotion.
               Based on your feelings, it can automatically adjust your laptop's
               environment (like changing the wallpaper or music) to help improve
               your mood and focus.

@@ -399,11 +399,11 @@ const DashboardPage = () => {
                   )}
                 </div>
               </div>
-              <div>
+              {/* <div>
                 <p className="text-xs text-muted-foreground">
                   {analysisSource ? `(Source: ${analysisSource})` : ""}
                 </p>
-              </div>
+              </div> */}
             </CardContent>
           </Card>
 
